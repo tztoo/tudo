@@ -5,3 +5,7 @@
 # 开发环境
 Python 3.5+
 Tornado 5.1.1
+
+
+# 数据库
+使用 MySQL
